@@ -1,0 +1,49 @@
+{
+  "name": "Graziella - Артизанальные итальянские сыры",
+  "short_name": "Graziella",
+  "description": "Откройте для себя изысканную коллекцию артизанальных итальянских сыров. От нежной моцареллы до роскошной бурраты.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#6B7C32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "shopping", "lifestyle"],
+  "lang": "ru-RU",
+  "dir": "ltr",
+  "shortcuts": [
+    {
+      "name": "Каталог сыров",
+      "short_name": "Каталог",
+      "description": "Посмотреть все сыры",
+      "url": "/catalog"
+    },
+    {
+      "name": "Корзина",
+      "short_name": "Корзина",
+      "description": "Просмотр корзины",
+      "url": "/cart"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/PSX_one.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Главная страница Graziella"
+    }
+  ]
+}

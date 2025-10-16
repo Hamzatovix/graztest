@@ -1,0 +1,12 @@
+﻿node_modules/
+front/dist/
+front/build/
+rnaya-ladunya/front/dist/
+rnaya-ladunya/front/build/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.local
+.env.*.local
